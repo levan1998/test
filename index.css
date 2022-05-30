@@ -1,0 +1,9 @@
+.list {
+  background-color: aliceblue;
+}
+.list_item {
+  font-size: 16px;
+  border-bottom: 1px solid black;
+  padding: 2.5px;
+  cursor: pointer;
+}
